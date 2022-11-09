@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlehTitov
+- 👋 Hi, I’m @OlehTitov https://olehtitov.com
 - 👀 I’m interested in iOS and building apps for my translation company business and more
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on tools for translation industry
